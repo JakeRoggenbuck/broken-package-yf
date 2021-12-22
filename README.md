@@ -1,6 +1,6 @@
-# yf-package-example
+# broken-package-yf
 
 ## Install
 ```
-yfin install jakeroggenbuck/yf-package-example
+yfin install jakeroggenbuck/broken-package-yf
 ```
