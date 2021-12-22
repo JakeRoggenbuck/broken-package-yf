@@ -1,16 +1,15 @@
-# package.yml
-package:
-  name: 'yf-package-example' # No capitalization
-  description: 'An example package for yflat'
-  version: 0.1.0
-  url: 'https://github.com/JakeRoggenbuck/yf-package-example'
+# Really broken package
+pack   age:
+  name: 'broken-package-yf'
+  descri   p ti on: 'A broken package'
+  ve
+  
+  rsio n: 0.1.0
+  url: 'https://github.com/JakeRoggenbuck/broken-package-yf'
 
-  # Optional
-  authors:
+  aut    hors:
     - 'Jake Roggenbuck'
 
-  # Optional
   license: 'MIT'
 
-# Dependencies for this package
 depends:
